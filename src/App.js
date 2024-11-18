@@ -79,7 +79,7 @@ const App= () => {
         setResult('This Person Does Not Have Parkinsons Disease')
         
       } else {
-        setResult('This Person Has  Parkinsons Pisease')
+        setResult('This Person Has  Parkinsons Disease')
         
       }
       console.log(result);
